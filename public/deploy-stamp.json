@@ -1,6 +1,18 @@
 {
-  "lastPublishedAt": "2026-05-10T17:55:57.234Z",
-  "productSlug": "artistic-artisan-boho-leather-crossbody-handmade-in-morocco",
-  "productTitle": "Artistic Artisan Boho Leather Crossbody: Handmade in Morocco",
-  "note": "Updated by n8n to trigger one final Handhapiness Vercel deploy after image commits."
+  "lastPublishedAt": "2026-07-08T20:33:55.351Z",
+  "productSlug": "black-woven-straw-market-tote-with-leather-handles-handmade",
+  "productTitle": "Black Woven Straw Market Tote with Leather Handles Handmade",
+  "images": [
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-main.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4623.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4624.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4625.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4626.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4627.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4628.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4629.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4630.jpg",
+    "https://handhapiness.vercel.app/images/uploads/black-woven-straw-market-tote-with-leather-handles-handmade-1783542597132-sk7l39-product-14268341654371468-4631.jpg"
+  ],
+  "note": "Trigger Handhapiness deployment after all image commits are complete."
 }
