@@ -1,13 +1,11 @@
 {
-  "lastPublishedAt": "2026-07-09T00:19:46.222Z",
-  "productSlug": "q1rwgsfg",
-  "productTitle": "q1rwgsfg",
+  "lastPublishedAt": "2026-07-09T07:00:27.905Z",
+  "productSlug": "aaaaaassssss",
+  "productTitle": "aaaaaassssss",
   "images": [
-    "https://handhapiness.vercel.app/images/uploads/q1rwgsfg-1783556284659-9l9iho-main.jpg",
-    "https://handhapiness.vercel.app/images/uploads/q1rwgsfg-1783556284659-9l9iho-product-14268450570884708-4787.jpg",
-    "https://handhapiness.vercel.app/images/uploads/q1rwgsfg-1783556284659-9l9iho-product-14268450570884708-4788.jpg",
-    "https://handhapiness.vercel.app/images/uploads/q1rwgsfg-1783556284659-9l9iho-product-14268450570884708-4789.jpg",
-    "https://handhapiness.vercel.app/images/uploads/q1rwgsfg-1783556284659-9l9iho-product-14268450570884708-4790.jpg"
+    "https://handhapiness.vercel.app/images/uploads/aaaaaassssss-1783580341146-869anq-main.png",
+    "https://handhapiness.vercel.app/images/uploads/aaaaaassssss-1783580341146-869anq-product-14268643042920052-4821.png",
+    "https://handhapiness.vercel.app/images/uploads/aaaaaassssss-1783580341146-869anq-product-14268643042920052-4822.png"
   ],
   "note": "Trigger Handhapiness deployment after all image commits are complete."
 }
